@@ -11,10 +11,10 @@ For the record, all of this was typed out manually for the most part.
 # Using it in Python
 If you're using it in a Python project, you can just import the package. There are currently 2 functions available.
 
-## `genshinrecipes.data.return_data()`
+## `genshinrecipes.return_data()`
 - Returns the full JSON object.
 
-## `genshinrecipes.data.filter_by_rarity(rarity: int)`
+## `genshinrecipes.filter_by_rarity(rarity: int)`
 - Returns all recipes that are of a certain rarity (1-5).
 
 # Using it in not Python
