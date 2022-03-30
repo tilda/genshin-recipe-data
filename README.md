@@ -8,8 +8,17 @@ This was originally in [enkanomiya](https://github.com/tilda/enkanomiya) but sin
 
 For the record, all of this was typed out manually for the most part.
 
-# How to use it?
-Simply use the data in `static/recipes.json`. It's a big JSON object basically looking like this:
+# Using it in Python
+If you're using it in a Python project, you can just import the package. There are currently 2 functions available.
+
+## `genshinrecipes.data.return_data()`
+- Returns the full JSON object.
+
+## `genshinrecipes.data.filter_by_rarity(rarity: int)`
+- Returns all recipes that are of a certain rarity (1-5).
+
+# Using it in not Python
+Simply use the data in `genshinrecipes/recipes.json` (for example, you could use a git submodule). It's a big JSON object basically looking like this:
 ```js
 {
     "food-name": {
