@@ -234,6 +234,11 @@
         "rarity": 3,
         "location": "Available from Ms. Bai (Qingce Village, Liyue)"
     },
+    "katsu-sandwich": {
+        "name": "Katsu Sandwich",
+        "rarity": 2,
+        "location": "Available from Ryouko (Ritou, Inazuma)"
+    },
     "konda-cuisine": {
         "name": "Konda Cuisine",
         "rarity": 3,
