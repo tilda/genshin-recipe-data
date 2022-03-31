@@ -22,7 +22,7 @@
     "bamboo-shoot-soup": {
         "name": "Bamboo Shoot Soup",
         "rarity": 3,
-        "location": "Available from Verr Goldlet (Wangshu Inn, Liyue)"
+        "location": "Available from Verr Goldet (Wangshu Inn, Liyue)"
     },
     "barbatos-ratatouille": {
         "name": "Barbatos Ratatouille",
@@ -429,8 +429,8 @@
         "rarity": 3,
         "location": "Reward from Jean Story Quest Act I or a variant of the Food Delivery commission"
     },
-    "stir-fried-fillet": {
-        "name": "Stir-Fried Fillet",
+    "stir-fried-filet": {
+        "name": "Stir-Fried Filet",
         "rarity": 1,
         "location": "Chest on Mt. Tianheng"
     },
@@ -442,7 +442,7 @@
     "stir-fried-shrimp": {
         "name": "Stir-Fried Shrimp",
         "rarity": 3,
-        "location": "Available from Verr Goldlet (Wangshu Inn, Liyue)"
+        "location": "Available from Verr Goldet (Wangshu Inn, Liyue)"
     },
     "stone-harbor-delicacies": {
         "name": "Stone Harbor Delicacies",
@@ -527,7 +527,7 @@
     "vegetarian-abalone": {
         "name": "Vegetarian Abalone",
         "rarity": 2,
-        "location": "Available from Verr Goldlet (Wangshu Inn, Liyue)"
+        "location": "Available from Verr Goldet (Wangshu Inn, Liyue)"
     },
     "wakatakeni": {
         "name": "Wakatakeni",
