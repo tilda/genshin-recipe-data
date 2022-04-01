@@ -359,6 +359,11 @@
         "rarity": 2,
         "location": "Available at Kiminami Restaurant (Inazuma City, Inazuma)"
     },
+    "rainbow-aster": {
+        "name": "Rainbow Aster",
+        "rarity": 3,
+        "location": "Event exclusive (Hues of the Violet Garden)"
+    },
     "rice-buns": {
         "name": "Rice Buns",
         "rarity": 1,
