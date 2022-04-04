@@ -4,11 +4,11 @@ setup(
     name="genshinrecipes",
     version="2.6.0",
     author="tilda",
+    author_email="tda@stairway.cf",
     packages=["genshinrecipes"],
     python_requires=">=3.6",
     package_data={
         "genshinrecipes": ["recipes.json"]
     },
-    project_urls={
-        "Source": "https://github.com/tilda/genshinrecipes",
-    })
+    url="https://github.com/tilda/genshin-recipe-data"
+)
