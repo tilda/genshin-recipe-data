@@ -1,4 +1,4 @@
-# `genshin-recipe-data`
+# `genshin-recipe-data` / `genshinrecipes`
 A repository to keep a current copy of Genshin Impact's cooking recipe data. Updated on a best effort basis.
 
 # Why?
@@ -6,10 +6,10 @@ I'm making tools for myself as someone trying to be a completionist in a gacha g
 
 This was originally in [enkanomiya](https://github.com/tilda/enkanomiya) but since I am making another project using this data, it makes more sense to share a repository between the 2 projects.
 
-For the record, all of this was typed out manually for the most part.
+For the record, all of this was typed out manually for the most part. There are future plans to make the data much better to contribute to, see [#2](https://github.com/tilda/genshin-recipe-data/issues/2).
 
 # Using it in Python
-If you're using it in a Python project, you can just import the package. There are currently 2 functions available.
+Install `genshinrecipes` from PyPI to use it in your (Python) project. There are currently 2 functions available.
 
 ## `genshinrecipes.return_data()`
 - Returns the full JSON object.
