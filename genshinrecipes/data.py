@@ -1,5 +1,4 @@
 from json import load
-from os.path import abspath
 from importlib.resources import open_text
 
 __genshinrecipes_data = load(open_text('genshinrecipes', 'recipes.json'))
