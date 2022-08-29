@@ -54,6 +54,11 @@
         "rarity": 3,
         "location": "Event exclusive, now unobtainable (Moonlight Merriment)"
     },
+    "butter-chicken": {
+        "name": "Butter Chicken",
+        "rarity": 3,
+        "location": "Sumeru Reputation Lv. 1 reward"
+    },
     "butter-crab": {
         "name": "Butter Crab",
         "rarity": 4,
@@ -123,6 +128,11 @@
         "name": "Cured Pork Dry Hotpot",
         "rarity": 3,
         "location": "Available at Liuli Pavilion (Liyue Harbor, Liyue)"
+    },
+    "curry-shrimp": {
+        "name": "Curry Shrimp",
+        "rarity": 2,
+        "location": "Available from Jahangir (Port Ormos, Sumeru)"
     },
     "dragon-beard-noodles": {
         "name": "Dragon Beard Noodles",
@@ -244,6 +254,11 @@
         "rarity": 3,
         "location": "Inazuma Reputation Lv. 1 reward"
     },
+    "lambad-fish-roll": {
+        "name": "Lambad Fish Roll",
+        "rarity": 1,
+        "location": "Available at Lambad's Tavern (Sumeru City, Sumeru)"
+    },
     "lotus-flower-crisp": {
         "name": "Lotus Flower Crisp",
         "rarity": 3,
@@ -254,20 +269,40 @@
         "rarity": 2,
         "location": "Available at Bubu Pharmacy (Liyue Harbor, Liyue)"
     },
+    "masala-cheese-balls": {
+        "name": "Masala Cheese Balls",
+        "rarity": 2,
+        "location": "Available from Jahangir (Port Ormos, Sumeru)"
+    },
     "matsutake-meat-rolls": {
         "name": "Matsutake Meat Rolls",
         "rarity": 2,
         "location": "Reward from World Quest \"Custodian of Clouds\""
+    },
+    "meat-lovers-mushroom-pizza": {
+        "name": "Meat Lovers' Mushroom Pizza",
+        "rarity": 4,
+        "location": "Delivered in Mail"
     },
     "mint-jelly": {
         "name": "Mint Jelly",
         "rarity": 1,
         "location": "Available at Good Hunter (Mondstadt, Mondstadt) after AR15"
     },
+    "milky-mushroom-crisp-tower": {
+        "name": "Milky Mushroom Crisp Tower",
+        "rarity": 3,
+        "location": "Delivered in Mail"
+    },
     "mint-salad": {
         "name": "Mint Salad",
         "rarity": 2,
         "location": "Available at Wanmin Restaurant (Liyue Harbor, Liyue)"
+    },
+    "minty-bean-soup": {
+        "name": "Minty Bean Soup",
+        "rarity": 1,
+        "location": "Available at Lambad's Tavern (Sumeru City, Sumeru)"
     },
     "minty-meat-rolls": {
         "name": "Minty Meat Rolls",
@@ -309,6 +344,11 @@
         "rarity": 3,
         "location": "Available at Kiminami Restaurant (Inazuma City, Inazuma)"
     },
+    "mushroom-hodgepodge": {
+        "name": "Mushroom Hodgepodge",
+        "rarity": 2,
+        "location": "Reward from World Quest \"Cooking, the Flavor of Nature\""
+    },
     "mushroom-pizza": {
         "name": "Mushroom Pizza",
         "rarity": 3,
@@ -343,6 +383,21 @@
         "name": "Onigiri",
         "rarity": 2,
         "location": "Reward from World Quest \"The Gourmet Supremos: The Deep Divers\""
+    },
+    "panipuri": {
+        "name": "Panipuri",
+        "rarity": 2,
+        "location": "Available from Jahangir (Port Ormos, Sumeru)"
+    },
+    "pita-pocket": {
+        "name": "Pita Pocket",
+        "rarity": 3,
+        "location": "Reward from Archon Quest \"Silent Seeker of Knowledge\""
+    },
+    "potato-boat": {
+        "name": "Potato Boat",
+        "rarity": 3,
+        "location": "Available from Jahangir (Port Ormos, Sumeru)"
     },
     "qingce-stir-fry": {
         "name": "Qingce Stir Fry",
@@ -414,6 +469,16 @@
         "rarity": 3,
         "location": "Available at Good Hunter (Mondstadt, Mondstadt) after AR35"
     },
+    "selva-salad": {
+        "name": "Selva Salad",
+        "rarity": 2,
+        "location": "Reward from World Quest \"Cooking, a Pleasant Memory\""
+    },
+    "shawarma-wrap": {
+        "name": "Shawarma Wrap",
+        "rarity": 2,
+        "location": "Available at Lambad's Tavern (Sumeru City, Sumeru)"
+    },
     "soba-noodles": {
         "name": "Soba Noodles",
         "rarity": 1,
@@ -453,6 +518,11 @@
         "name": "Stone Harbor Delicacies",
         "rarity": 2,
         "location": "Available at Liuli Pavilion (Liyue Harbor, Liyue)"
+    },
+    "sunset-berry-tea": {
+        "name": "Sunset Berry Tea",
+        "rarity": 3,
+        "location": "Delivered in Mail"
     },
     "sunshine-sprat": {
         "name": "Sunshine Sprat",
