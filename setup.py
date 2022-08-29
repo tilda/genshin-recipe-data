@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as file:
 
 setup(
     name="genshinrecipes",
-    version="2.6.0",
+    version="3.0.0",
     author="tilda",
     author_email="tda@stairway.cf",
     long_description=long_description,
